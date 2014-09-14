@@ -4,7 +4,7 @@ InfoVisual
 Information Visualization
 
 
-git init
+git init <br />
 git clone https://github.com/schwinnli/InfoVisual.git
 git status
 git add . 
